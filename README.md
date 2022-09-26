@@ -12,6 +12,7 @@
 **Week1**
 
 **Week2**
+* [html](https://www.w3schools.com/html/default.asp)
 * [my web1](https://manchien.github.io/web/mypage/)
 
 **Week3**
