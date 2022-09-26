@@ -9,13 +9,13 @@
 * [`專題連結區`](https://github.com/Manchien/web/blob/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 
 ## 課程筆記區
-**Week1**
+### Week1
 
-**Week2**
+### Week2
 * [html](https://www.w3schools.com/html/default.asp)
 * [my web1](https://manchien.github.io/web/mypage/)
 
-**Week3**
+### Week3
 ## 作業連結區 
 ## 專題連結區
 
