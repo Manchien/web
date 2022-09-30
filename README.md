@@ -10,12 +10,23 @@
 
 ## 課程筆記區
 ### Week1
-
+>軟體下載
+* [Node.js](https://nodejs.org/zh-tw/download/)
+* [GitHub Desktop](https://desktop.github.com/)
 ### Week2
-* [html](https://www.w3schools.com/html/default.asp)
-* [my web1](https://manchien.github.io/web/mypage/)
-
+> 地端跟雲端的連接
+* 語法查詢：[html](https://www.w3schools.com/html/default.asp)
+* 網頁模板：[Bootstrap](https://getbootstrap.com/)
+* [My web1](https://manchien.github.io/web/mypage/)
 ### Week3
+> DNS Server ( Domain Name System )、IP位置
+* 網頁設計：[Codepen](https://codepen.io/)
+* Learning tool：[CSS](https://learnhtmlcss.online/)、[Javascript](https://learnjavascript.online/app.html)
+### Week4
+> HTTP 請求方法、HTTP 狀態碼Status Code、實作server端
+* What is [HTTP](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)?
+* Youtube sourese：[Chrome DevTools 101](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
+* [用Nodejs實作Server端](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
 ## 作業連結區 
 ## 專題連結區
 
