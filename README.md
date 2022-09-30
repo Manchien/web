@@ -11,13 +11,14 @@
 ## 課程筆記區
 ### Week1
 >軟體下載
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Node.js](https://nodejs.org/zh-tw/download/)
 * [GitHub Desktop](https://desktop.github.com/)
 ### Week2
 > 地端跟雲端的連接
-* 語法查詢：[html](https://www.w3schools.com/html/default.asp)
+* 語法查詢：[html](https://www.w3schools.com/html/default.asp)、[Markdown](https://markdown.tw/)
 * 網頁模板：[Bootstrap](https://getbootstrap.com/)
-* [My web1](https://manchien.github.io/web/mypage/)
+* [`My web1`](https://manchien.github.io/web/mypage/)
 ### Week3
 > DNS Server ( Domain Name System )、IP位置
 * 網頁設計：[Codepen](https://codepen.io/)
