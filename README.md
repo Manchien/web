@@ -29,6 +29,9 @@
 * What is [HTTP](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)?
 * Youtube resources：[Chrome DevTools 101](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)、[Web Dev Simplified ](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [用Nodejs實作Server端](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
+### Week5
+* 程式下載：[Node.js MySQL](https://dev.mysql.com/downloads/installer/)
+* 語法查詢：[Node.js MySQL](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
 ## 作業連結區 
 * [作業一](https://youtu.be/FW6-3n18YDA)
 ## 專題連結區
