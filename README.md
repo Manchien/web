@@ -28,11 +28,13 @@
 > HTTP 請求方法、HTTP 狀態碼Status Code、實作server端
 * What is [HTTP](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)?
 * Youtube resources：[Chrome DevTools 101](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)、[Web Dev Simplified ](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-* [用Nodejs實作Server端](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
+* [用Nodejs實作Server端](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)、[練習1](https://github.com/Manchien/web/tree/main/Node_web2)
+
 ### Week5 
 > 前端後端、mysql連接
 * 程式下載：[Node.js MySQL](https://dev.mysql.com/downloads/installer/)
 * 語法查詢：[Node.js MySQL](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
+* [練習1](https://github.com/Manchien/web/tree/main/web2db)
 ### Week6
 > react(前端)、NodeJS(接口)、Mysql(資料庫)
 * [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
