@@ -29,9 +29,14 @@
 * What is [HTTP](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)?
 * Youtube resources：[Chrome DevTools 101](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)、[Web Dev Simplified ](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [用Nodejs實作Server端](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
-### Week5
+### Week5 
+> 前端後端、mysql連接
 * 程式下載：[Node.js MySQL](https://dev.mysql.com/downloads/installer/)
 * 語法查詢：[Node.js MySQL](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
+### Week6
+> react(前端)、NodeJS(接口)、Mysql(資料庫)
+* [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
+* [AWS](https://aws.amazon.com/tw/free/?trk=cf0164b0-a143-4575-9482-010451b8f1d5&sc_channel=ps&s_kwcid=AL!4422!3!595905315029!e!!g!!aws&ef_id=Cj0KCQjw166aBhDEARIsAMEyZh5hnggiQsplF_P6UUkkZX2JJj2teUg9y6bWtc_GfXtewUDmrzslaXcaAqCFEALw_wcB:G:s&s_kwcid=AL!4422!3!595905315029!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 ## 作業連結區 
 * [作業一](https://youtu.be/FW6-3n18YDA)
 ## 專題連結區
