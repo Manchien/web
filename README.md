@@ -40,6 +40,7 @@
 * [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
 * [AWS](https://aws.amazon.com/tw/free/?trk=cf0164b0-a143-4575-9482-010451b8f1d5&sc_channel=ps&s_kwcid=AL!4422!3!595905315029!e!!g!!aws&ef_id=Cj0KCQjw166aBhDEARIsAMEyZh5hnggiQsplF_P6UUkkZX2JJj2teUg9y6bWtc_GfXtewUDmrzslaXcaAqCFEALw_wcB:G:s&s_kwcid=AL!4422!3!595905315029!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 ## 作業連結區 
-* [作業一](https://youtu.be/FW6-3n18YDA)( github、靜態網頁、地端雲端連接)
+* [作業一](https://youtu.be/FW6-3n18YDA) `github、靜態網頁、地端雲端連接`
+* [作業二](https://youtu.be/pllR5f4ZAyM) `React(前端)、NodeJS(連接)、Mysql(資料庫)`
 ## 專題連結區
 
