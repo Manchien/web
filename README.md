@@ -43,7 +43,7 @@
 > react(前端)、NodeJS(接口)、Mysql(資料庫)、AWS Educate 簡介與自學方案
 * [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
 ![image](https://user-images.githubusercontent.com/113258644/196321538-f81a7b3c-1179-4411-9071-e4731dd363fb.png)
-* [AWS](https://aws.amazon.com/tw/free/?trk=cf0164b0-a143-4575-9482-010451b8f1d5&sc_channel=ps&s_kwcid=AL!4422!3!595905315029!e!!g!!aws&ef_id=Cj0KCQjw166aBhDEARIsAMEyZh5hnggiQsplF_P6UUkkZX2JJj2teUg9y6bWtc_GfXtewUDmrzslaXcaAqCFEALw_wcB:G:s&s_kwcid=AL!4422!3!595905315029!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+* [AWS](https://aws.amazon.com/tw/education/awseducate/)
 
 ### Week7
 > Amazon EC2 Lab、On-site、IaaS、PaaS、SaaS差異
