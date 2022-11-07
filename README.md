@@ -54,6 +54,11 @@
 ![image](https://user-images.githubusercontent.com/113258644/196320625-5eeb7b71-8f8d-43fa-be42-d6aff70d9fb6.png)
 * 影片欣賞：[教育元宇宙｜蔡芸琤教授](https://www.youtube.com/watch?v=lPbRkV0R-8E)
 * [Medium](https://medium.com/)
+
+### Week8
+> Introduction to Amazon Simple Storage Service (S3) Lab
+* Youtube resources：[Amazon S3](https://www.youtube.com/watch?v=e6w9LwZJFIA)、[上傳靜態網站到AWS S3](https://www.youtube.com/watch?v=ujkXfPsU3Is)
+* [MetaMask](https://metamask.io/)、[Opensea](https://opensea.io/zh-TW)
 ## 作業連結區 
 * [作業一](https://youtu.be/FW6-3n18YDA) `github、靜態網頁、地端雲端連接`
 * [作業二](https://youtu.be/pllR5f4ZAyM) `React(前端)、NodeJS(連接)、Mysql(資料庫)`
