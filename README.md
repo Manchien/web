@@ -66,6 +66,8 @@
 
 ### Week10
 > Web3、KryptoCamp
+* [Aptos KryptoCamp](https://course.kryptocamp.co/articles?category=Aptos)、
+* 文章閱讀：[KryptoCamp專訪1-3](https://tw.news.yahoo.com/kryptocamp%E5%B0%88%E8%A8%AA1-3-%E5%82%AC%E7%94%9F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%BB%83%E5%9F%94%E8%BB%8D%E6%A0%A1-%E6%89%93%E9%80%A0%E5%AE%8C%E6%95%B4%E7%94%9F%E6%85%8B%E5%9C%88-073250513.html)、[在 Aptos 上，透過 Typescript SDK 創建一個公版 NFT](https://pecutsai.medium.com/%E5%9C%A8-aptos-%E4%B8%8A-%E9%80%8F%E9%81%8E-typescript-sdk-%E5%89%B5%E5%BB%BA%E4%B8%80%E5%80%8B%E5%85%AC%E7%89%88-nft-2e866f13505c)、[使用 Move Module 進入 Aptos 智能合約開發的第一步](https://pecutsai.medium.com/%E4%BD%BF%E7%94%A8-move-module-%E9%80%B2%E5%85%A5-aptos-%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84%E9%96%8B%E7%99%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5-6a67dec3758f)、[開箱 Aptos 第一個範例程式](https://pecutsai.medium.com/%E9%96%8B%E7%AE%B1-aptos-%E7%AC%AC%E4%B8%80%E5%80%8B%E7%AF%84%E4%BE%8B%E7%A8%8B%E5%BC%8F-beeef103df91)、[成為 Aptos 公鏈開發者的第一步](https://pecutsai.medium.com/%E6%88%90%E7%82%BA-aptos-%E5%85%AC%E9%8F%88%E9%96%8B%E7%99%BC%E8%80%85%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5-9a56d1105197)
 
 ## 作業連結區 
 * [作業一](https://youtu.be/FW6-3n18YDA) `github、靜態網頁、地端雲端連接`
