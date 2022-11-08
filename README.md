@@ -64,6 +64,8 @@
 ![image](https://user-images.githubusercontent.com/113258644/200560327-3452c4d9-5612-4ceb-9215-c87316092d9b.png)
 * 文章欣賞：[2021 年終回顧：網路不是收音機、區塊勢不只是媒體 By許明恩](https://blocktrend.substack.com/p/413)
 
+### Week10
+> Web3、KryptoCamp
 
 ## 作業連結區 
 * [作業一](https://youtu.be/FW6-3n18YDA) `github、靜態網頁、地端雲端連接`
