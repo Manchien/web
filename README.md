@@ -48,10 +48,7 @@
 ### Week7
 > Amazon EC2 Lab、On-site、IaaS、PaaS、SaaS差異
 * 文章：[IaaS vs. PaaS vs. SaaS](https://www.redhat.com/en/topics/cloud-computing/iaas-vs-paas-vs-saas)、[Understanding the basics of cloud computing](https://www.lucidchart.com/blog/cloud-computing-basics)、[The difference between PaaS, IaaS, and SaaS](https://www.aalpha.net/blog/the-difference-between-paas-iaas-and-saas/)、
-![image](https://user-images.githubusercontent.com/113258644/196321054-af2f25e7-c340-46de-8147-1572ca9ae0c5.png)
 ![image](https://user-images.githubusercontent.com/113258644/196321128-3d3007bc-fa16-415d-b419-a5d4e24e3783.png)
-![image](https://user-images.githubusercontent.com/113258644/196321163-58b73f03-5c1a-46a9-bd16-bec6f05bbcb7.png)
-![image](https://user-images.githubusercontent.com/113258644/196320625-5eeb7b71-8f8d-43fa-be42-d6aff70d9fb6.png)
 * 影片欣賞：[教育元宇宙｜蔡芸琤教授](https://www.youtube.com/watch?v=lPbRkV0R-8E)
 * [Medium](https://medium.com/)
 
@@ -59,6 +56,15 @@
 > Introduction to Amazon Simple Storage Service (S3) Lab
 * Youtube resources：[Amazon S3](https://www.youtube.com/watch?v=e6w9LwZJFIA)、[上傳靜態網站到AWS S3](https://www.youtube.com/watch?v=ujkXfPsU3Is)
 * [MetaMask](https://metamask.io/)、[Opensea](https://opensea.io/zh-TW)
+* Youtube resources：[MetaMask建立錢包教學](https://www.youtube.com/watch?v=G9jwLbmGziw)、[領取乙太測試鏈上的測試幣](https://www.youtube.com/watch?v=nsAuqfAQCag)、[HOW TO SELL YOUR ART NFT ON OPENSEA TESTNET](https://www.youtube.com/watch?v=KCt6CXRirwA&t=1s)、[在Metamask上查看，匯入自己的NFT收藏](https://www.youtube.com/watch?v=ZGOAv8kv9HI)
+
+### Week9
+> Web3與區塊鏈
+* 軟體開發畫面的構思：[Figma](https://www.figma.com/)
+![image](https://user-images.githubusercontent.com/113258644/200560327-3452c4d9-5612-4ceb-9215-c87316092d9b.png)
+* 文章欣賞：[2021 年終回顧：網路不是收音機、區塊勢不只是媒體 By許明恩](https://blocktrend.substack.com/p/413)
+
+
 ## 作業連結區 
 * [作業一](https://youtu.be/FW6-3n18YDA) `github、靜態網頁、地端雲端連接`
 * [作業二](https://youtu.be/pllR5f4ZAyM) `React(前端)、NodeJS(連接)、Mysql(資料庫)`
