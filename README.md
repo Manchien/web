@@ -59,7 +59,7 @@
 * Youtube resources：[MetaMask建立錢包教學](https://www.youtube.com/watch?v=G9jwLbmGziw)、[領取乙太測試鏈上的測試幣](https://www.youtube.com/watch?v=nsAuqfAQCag)、[HOW TO SELL YOUR ART NFT ON OPENSEA TESTNET](https://www.youtube.com/watch?v=KCt6CXRirwA&t=1s)、[在Metamask上查看，匯入自己的NFT收藏](https://www.youtube.com/watch?v=ZGOAv8kv9HI)
 
 ### Week9
-> Web3與區塊鏈
+> [Web3、元宇宙與區塊鏈](https://www.bnext.com.tw/article/68404/what-is-web3)
 * 軟體開發畫面的構思：[Figma](https://www.figma.com/)
 ![image](https://user-images.githubusercontent.com/113258644/200560327-3452c4d9-5612-4ceb-9215-c87316092d9b.png)
 * 文章欣賞：[2021 年終回顧：網路不是收音機、區塊勢不只是媒體 By許明恩](https://blocktrend.substack.com/p/413)
