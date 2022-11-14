@@ -74,6 +74,6 @@
 * [作業一](https://youtu.be/FW6-3n18YDA) `github、靜態網頁、地端雲端連接`
 * [作業二](https://youtu.be/pllR5f4ZAyM) `React(前端)、NodeJS(連接)、Mysql(資料庫)`
 * [作業三](https://youtu.be/xAZVSMIpX7c) `AWS：Lab 1 S3`、`Lab 2 EC2`
-* [作業四](https://youtu.be/JcLbFBqtt-g) `AWS：Lab 5 VPC`、Lab 6 IAM`
+* [作業四](https://youtu.be/JcLbFBqtt-g) `AWS：Lab 5 VPC`、`Lab 6 IAM`
 ## 專題連結區
 
