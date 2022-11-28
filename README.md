@@ -75,5 +75,6 @@
 * [作業二](https://youtu.be/pllR5f4ZAyM) `React(前端)、NodeJS(連接)、Mysql(資料庫)`
 * [作業三](https://youtu.be/xAZVSMIpX7c) `AWS：Lab 1 S3`、`Lab 2 EC2`
 * [作業四](https://youtu.be/JcLbFBqtt-g) `AWS：Lab 5 VPC`、`Lab 6 IAM`
+* [作業五](https://youtu.be/m07BGbZ7LjA) `AWS：Lab 3 DynamoDB`、`Lab 4 RDS`、`Lab 7 Simple Storage Service`
 ## 專題連結區
 
