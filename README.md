@@ -4,11 +4,6 @@
 * 姓名：徐嫚謙
 * 系級：科技系114級
 
----
-* [`課程筆記區`](https://github.com/Manchien/web/blob/main/README.md#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
-* [`作業連結區`](https://github.com/Manchien/web/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
-* [`專題連結區`](https://github.com/Manchien/web/blob/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
-
 ## 課程筆記區
 ### Week1
 >軟體下載
@@ -77,4 +72,5 @@
 * [作業四](https://youtu.be/JcLbFBqtt-g) `AWS：Lab 5 VPC`、`Lab 6 IAM`
 * [作業五](https://youtu.be/m07BGbZ7LjA) `AWS：Lab 3 DynamoDB`、`Lab 4 RDS`、`Lab 7 Simple Storage Service`
 ## 專題連結區
-
+* [健康飲食好夥伴](https://www.youtube.com/watch?v=gBi49bl3R_k)
+* [臺師大科技系 111-1 網際網路概論期末專題發表](https://www.youtube.com/watch?app=desktop&fbclid=IwAR1EpYVneMqnaJ5i-o5rsvdj6p7QLDDaBZWH7cn_HS89jvpl20Ga7TbIIYE_aem_AVLRSFPL4pki2mmeDxrloN46I8ibw_BAmchVbGmJcI16N7_H-VU-2tyYqZg-tm-b_kw&v=3qEIupIicto&feature=youtu.be&mibextid=2JQ9oc)
