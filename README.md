@@ -15,7 +15,7 @@
 > 地端跟雲端的連接
 * 語法查詢：[html](https://www.w3schools.com/html/default.asp)、[Markdown](https://markdown.tw/)
 * 網頁模板：[Bootstrap](https://getbootstrap.com/)
-* [`My web1`](https://manchien.github.io/web/mypage/)
+* [`My web1`](https://manchien.github.io/web/Web1/)
 
 ### Week3
 > DNS Server ( Domain Name System )、IP位置
